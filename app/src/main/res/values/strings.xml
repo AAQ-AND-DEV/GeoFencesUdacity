@@ -43,12 +43,15 @@
     <string name="ferry_building_hint">Go to a market with an amazing assortment of delicious foods. It is a San Francisco classic!</string>
     <string name="pier_39_hint">Go to a pier popular for tourist attractions, carnival games, fresh fish, and delicious sourdough bread!</string>
     <string name="union_square_hint">Go to a square named after Civil War rallies held there, but now known for its amazing shopping!</string>
-
+    <string name="lombard_street_hint">Go to the most crooked street in the City</string>
+    <string name="alcatrz_hint">Go to the place that you could have eaten tacos with "The Birdman" in the 1940s</string>
     <!-- Geofence Locations -->
+    <string name="lombard_street_location">at Lombard Street</string>
     <string name="golden_gate_bridge_location">at the Golden Gate bridge</string>
     <string name="ferry_building_location">in the Ferry Building</string>
     <string name="pier_39_location">at Pier 39</string>
     <string name="union_square_location">in Union Square</string>
+    <string name="alcatraz_location">on Alcatraz Island</string>
 
     <!-- Error strings -->
     <string name="geofence_not_available">Geofence service is not available now</string>
